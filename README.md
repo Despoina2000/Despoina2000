@@ -76,7 +76,7 @@
 <div align="center">
     <a href='https://www.linkedin.com/in/despoina-papadopoulou-9aa295195/'>
         <img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" title="LinkedIn" alt="LinkedIn" width="40" height="40">
-    </a>&nbsp;
+    </a>
 </div>
 
 ---
