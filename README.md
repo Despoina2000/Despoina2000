@@ -30,7 +30,8 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="40" height="40">&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" title="Sass" alt="Sass" width="40" height="40">&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" alt="CSS" width="40" height="40">&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="40" height="40">&nbsp;  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="40" height="40">&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vitest-Dark.svg" title="Vitest" alt="Vitest" width="40" height="40">&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Light.svg" title="Cypress" alt="Cypress" width="40" height="40">&nbsp;
   <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/playwright.png" title="Playwright" alt="Playwright" width="40" height="40">&nbsp;
   
